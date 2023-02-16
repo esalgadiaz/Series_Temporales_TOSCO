@@ -30,11 +30,14 @@ Así la tienda T2c, es la tienda c de la zona 2.
 4. Graficar las ventas totales semanales.
 5. Predecir las ventas totales diarias.
 6. Predecir las ventas totales semanales.
-# Practic3 1 Estructura:
+
+# Practica 2 Estructura:
 
 Data: datos.csv.
 
 HTML: Html format.
+
+Informe: pdf format.
 
 Nootebooks: Jupyter notebook and environment.
 
